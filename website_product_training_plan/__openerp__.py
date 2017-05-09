@@ -6,7 +6,7 @@
     "version": "8.0.1.0.0",
     "license": "AGPL-3",
     "depends": [
-        "base", "website_sale"
+        "base", "product_training_plan", "website_sale"
     ],
     "author": "OdooMRP team, "
               "AvanzOSC, "
